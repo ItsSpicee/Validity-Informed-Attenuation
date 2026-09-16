@@ -1,0 +1,30 @@
+# Core data
+pandas>=2.0
+numpy>=1.24             
+scipy>=1.11            # spearman, pearson r
+pyarrow>=14.0          # parquet read/write
+openpyxl>=3.1          # .xlsx read/write
+
+# ML
+scikit-learn>=1.3      # cosine similarity
+catboost>=1.2          # regression model 
+shap>=0.44             # feature importance
+
+# NLP
+spacy>=3.7             # clause extraction
+ftfy>=6.1                   #encoding errors
+transformers>=4.38 
+sentence-transformers>=2.6  #aspect-term categorization
+tokenizers>=0.19            #roBERTa
+huggingface-hub>=0.22       #roBERTa
+onnxruntime>=1.17           #roBERTa
+
+# Visualization
+matplotlib>=3.8 
+seaborn>=0.13
+
+# Utilities (progress bar)
+tqdm>=4.66
+
+# If installing without setup.py, also run:
+# python -m spacy download en_core_web_sm

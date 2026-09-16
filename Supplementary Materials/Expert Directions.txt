@@ -1,0 +1,7 @@
+Please see the attached 80 review pairs.
+
+Please fill in your choices for which review in each pair is more valid and on topic in the 'Expert Label' column. Enter "1" if the first review is more valid or "2" if the second is more valid. If you are completely unsure for a pair, please enter "3", however I'd prefer if you use this option as a last resort.  
+
+A couple of things to note.
+
+I've manually anonymized the reviews replacing instructor and institution names with tags ([instructor], [institution]). Also, you will occasionally see profanity and emoji usage replaced with [profanity] and [emoji] tags. Since these are from RateMyProfessors.com they vary in length and can be quite informal to say the least.
